@@ -8,7 +8,7 @@ print('Welcome to the game. Let me explain the rules to you.\n'
 def player_vs_bot():
     total_amount = 2021
     max_take = 28
-    player_1 = input('\nEnter Player1 name: ')
+    player_1 = input('\nEnter Player name: ')
     player_2 = 'Bot'
     players = [player_1, player_2]
 
